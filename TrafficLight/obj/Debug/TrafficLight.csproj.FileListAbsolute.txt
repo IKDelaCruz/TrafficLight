@@ -15,3 +15,5 @@ C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\Traff
 C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Form1.resources
 C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
 C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\bin\Debug\System.Net.Http.dll
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\bin\Debug\System.Net.Http.xml
