@@ -6,3 +6,12 @@ C:\Users\ian.delacruz\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.P
 C:\Users\ian.delacruz\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
 C:\Users\ian.delacruz\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
 C:\Users\ian.delacruz\Desktop\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csprojResolveAssemblyReference.cache
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Form1.resources
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\ian.delacruz\Documents\GitHub\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.Cache
